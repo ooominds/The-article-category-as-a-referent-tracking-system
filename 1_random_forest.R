@@ -5,7 +5,7 @@ require(party)
 # suppress significant stars
 options(show.signif.stars=FALSE)
 
-# set seed for pseudo-random number generator to get replicable, comparable results
+# set seed for the pseudo-random number generator to get comparable results
 # note that results might vary insignificantly due to random sampling
 set.seed(1245)
 
