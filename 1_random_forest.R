@@ -1,6 +1,6 @@
 
-require(randomForest)
-require(party)
+require(randomForest) # tested versions are: 4.6-14 and 4.7-1.1
+require(party)        # tested versions are: 1.3.10 and 1.3.13
 
 load('forestdat.rda')
 
